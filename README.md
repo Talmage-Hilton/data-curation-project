@@ -13,7 +13,7 @@ My obsession with EPL has led me to wonder about how much the top players’ Est
 2. How many top 250 players does each team have?
 3. What’s the correlation between skill and ETV?
 
-In order to answer these questions, I will use data scraped from [this website] (https://www.footballtransfers.com/us/players/uk-premier-league).
+In order to answer these questions, I will use data scraped from [this website](https://www.footballtransfers.com/us/players/uk-premier-league).
 
 ### Contents of Repo
 
