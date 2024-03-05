@@ -14,4 +14,18 @@ My obsession with EPL has led me to wonder about how much the top players’ Est
 
 This repository contains the file I used to scrape the data using Selenium. It also contains a csv file of the data set after it was scraped.
 
+What follows is an explanation of the csv file:
+* **name** - name of the player
+* **position** - position of the player
+    - GK - goalkeeper
+    - D - defender
+    - M - midfielder
+    - DM - defensive midfielder
+    - AM - attacking midfielder
+    - F - forward
+    - (CRL) - center, right, left
+* **skill** - a player's skill, measured by the influence the player has on the team for which he plays (input variables are age, minutes played, type of match, strength of league and opponent, number of goals scored and conceded by the player's team)
+* **pot** - a player's potential, measured by the maximum skill level a player is expected to reach throughout his career based on his development to date
+* **etv** - estimated transfer value
+
 Please reach out to me with any questions concerning this project!
