@@ -14,7 +14,7 @@ My obsession with EPL has led me to wonder about how much the top players’ Est
 
 This repository contains the file I used to scrape the data using Selenium. It also contains a csv file of the data set after it was scraped.
 
-What follows is an explanation of the csv file:
+What follows is an explanation of the variables in the csv file:
 * **name** - name of the player
 * **position** - position of the player
     - GK - goalkeeper
