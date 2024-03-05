@@ -26,6 +26,6 @@ What follows is an explanation of the variables in the csv file:
     - (CRL) - center, right, left
 * **skill** - a player's skill, measured by the influence the player has on the team for which he plays (input variables are age, minutes played, type of match, strength of league and opponent, number of goals scored and conceded by the player's team)
 * **pot** - a player's potential, measured by the maximum skill level a player is expected to reach throughout his career based on his development to date
-* **etv** - estimated transfer value
+* **etv** - estimated transfer value (in millions of pounds)
 
 Please reach out to me with any questions concerning this project!
